@@ -68,7 +68,7 @@ Werkzeug em um ambiente de produção antes de tomar uma decisão.
 
 • Socketio - https://socket.io/pt-br/docs/v4/
 
-## Implantação em produção
+## IDE
 
 ![py](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
 ![visual](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
