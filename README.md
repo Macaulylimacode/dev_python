@@ -1,13 +1,19 @@
 # Dev_Python
 
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/Macaulylimacode/PYTHON-IA/blob/master/LICENSE) 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/Macaulylimacode/dev_python/blob/master/LICENSE) 
 
 ## Sobre o projeto
+Projeto de criação de chat ao vivo,que será o HashZap. Uma espécie de Whatsapp. Vai ser um chat ao vivo, 
+onde as pessoas podem entrar e conversar como se fosse um chat normal. Para isso nós vamos criar um site e criar o chat dentro do site.
 
-PYTHON-IA, Score de cliente em um banco. tem uma base de dados de 100.000 clientes e precisa verificar o score (pontuação) do cliente para saber se é um bom cliente ou não. está analise vai definir se o banco vai emprestar dinheiro, se ele vai ter crédito entre outros benefícios dentro do banco.
-objetivo: fazer um tratamento na base de dados e criar alguns algoritmos de classificação e verificar qual deles é o melhor. Com isso nós vamos conseguir fazer uma previsão dos clientes para saber se ele vai ser um cliente com um bom score ou não.
-### Esse já é um projeto mais voltado para análise de dados.
-Lembrando que nunca vamos conseguir ter um modelo com 100% de acerto.
+### OBS:
+```bash
+use com responsabilidade, lembrando que as mensagens permanecem apenas quando os participante estão ao vivo
+```
+# Dá uma olhada como vai ficar o nosso chat.
+![1](https://github.com/Macaulylimacode/dev_python/assets/139823222/8ee6e65e-88f4-49dc-9dd1-cb32a9ee5df6)
+
+
 
 # Os passo que vamos fazer são:
 • Importar a base de dados
