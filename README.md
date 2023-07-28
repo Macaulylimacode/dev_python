@@ -48,10 +48,11 @@ Werkzeug em um ambiente de produção antes de tomar uma decisão.
 
 # Tecnologias utilizadas
 ## Linguagem
-- Python
-- Html
-- CSS
-- Javascript
+
+![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![html](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+![css](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+![java](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
   
 ## Bibliotecas
 • Flask – pip install flask
@@ -68,8 +69,10 @@ Werkzeug em um ambiente de produção antes de tomar uma decisão.
 • Socketio - https://socket.io/pt-br/docs/v4/
 
 ## Implantação em produção
-- jupyter
-- pycharm
+
+![py](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
+![visual](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
+
 # Como executar o projeto
 
 ```bash
