@@ -87,4 +87,4 @@ cd dev_python
 
 Macauly lima
 
-https://https://www.linkedin.com/in/macauly-lima-75984a269
+https://www.linkedin.com/in/macauly-lima-75984a269
